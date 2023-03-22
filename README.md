@@ -2,6 +2,8 @@
 
 This is a cheat sheet repo for [react-icons](https://react-icons.github.io/react-icons).
 
+> react-icons is a react library that provides popular (mostly) MIT licensed icons as React components
+
 ## Usage
 
 - install react-icons
