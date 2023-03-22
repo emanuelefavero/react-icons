@@ -4,6 +4,7 @@ import { BiX, BiMenu } from 'react-icons/bi'
 
 export default function App() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
+
   return (
     <>
       <button
